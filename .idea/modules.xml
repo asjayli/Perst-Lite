@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Perst-Lite.iml" filepath="$PROJECT_DIR$/Perst-Lite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assoc/assoc.iml" filepath="$PROJECT_DIR$/assoc/assoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/continuous/continuous.iml" filepath="$PROJECT_DIR$/continuous/continuous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit_tests/junit_tests.iml" filepath="$PROJECT_DIR$/junit_tests/junit_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rdf/rdf.iml" filepath="$PROJECT_DIR$/rdf/rdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src11/src11.iml" filepath="$PROJECT_DIR$/src11/src11.iml" />
+    </modules>
+  </component>
+</project>

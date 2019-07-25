@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/cdc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fulltext" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jsr75" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reflect" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/util" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weak" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/xml" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="perst-rms1" level="project" />
+    <orderEntry type="library" name="perst-rms-reflect1" level="project" />
+    <orderEntry type="library" name="perst-jsr75" level="project" />
+    <orderEntry type="library" name="perst-jsr751" level="project" />
+    <orderEntry type="library" name="Basketball1" level="project" />
+    <orderEntry type="library" name="JSQLTest2" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="JSQLTest1" level="project" />
+    <orderEntry type="library" name="perst-rms2" level="project" />
+    <orderEntry type="library" name="Basketball" level="project" />
+    <orderEntry type="library" name="perst-rms" level="project" />
+    <orderEntry type="library" name="PIMindex" level="project" />
+    <orderEntry type="library" name="perst-rms-reflect" level="project" />
+    <orderEntry type="module" module-name="junit_tests" />
+    <orderEntry type="module" module-name="Perst-Lite" />
+  </component>
+</module>
